@@ -4,3 +4,11 @@ New reset commands in Git class..!
 {
 pull command from central repo to working area..!
 }
+{
+Reset command with incomplete data..!
+}
+reset data from local machine to staging area..!
+}
+
+
+
