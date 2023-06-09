@@ -1,3 +1,6 @@
 {
 New reset commands in Git class..!
 }
+{
+pull command from central repo to working area..!
+}
