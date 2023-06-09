@@ -12,4 +12,5 @@ reset data from local machine to staging area..!
 {
 pushing data to dev branch..!
 }
-
+{
+x=1
